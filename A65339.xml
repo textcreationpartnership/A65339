@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fresh relation from the Kings army in Scotland the retreat of the rebels on their approach, with the names of such persons of quality as have lately joyn'd the rebellious troops : being the tidings brought by the last express in a pacquet dated the 20th of this instant June 1679 just at midnight.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65339</idno>
+            <idno type="STC">Wing W119</idno>
+            <idno type="STC">ESTC R3319</idno>
+            <idno type="EEBO-CITATION">12630833</idno>
+            <idno type="OCLC">ocm 12630833</idno>
+            <idno type="VID">64756</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64756)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 678:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fresh relation from the Kings army in Scotland the retreat of the rebels on their approach, with the names of such persons of quality as have lately joyn'd the rebellious troops : being the tidings brought by the last express in a pacquet dated the 20th of this instant June 1679 just at midnight.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 3: T.W.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64756:1"/>
+            <head>A Freſh RELATION FROM THE KINGS ARMY IN SCOTLAND, The Retreat of the Rebels On their Approach; WITH The Names of ſuch Perſons of Quality as have lately Joyn'd the Rebellious Troops. Being the Tidings brought by the laſt Expreſs In a Pacquet Dated the 20th. of this Inſtant <hi>June</hi> 1679. juſt at Midnight.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ACcording to promiſe in my laſt, I cannot fail of giving you a particular Relation of our proceed<g ref="char:EOLhyphen"/>ings; For I do not doubt but all good Subjects in <hi>England</hi> are much concern'd to be from time to time inform'd of the true matter of Fact of ſuch an inſo<g ref="char:EOLhyphen"/>lent Rebellion, contriv'd by reſtleſs Spirits, who (though ſeemingly compos'd of different and diſagreeing Factions,) can yet like <hi>Herod</hi> and <hi>Pilate</hi> Unite, and be ſworn Brothers in Miſchief; or like <hi>Sampſon</hi>'s Foxes tyed together by the Tails of Diſloyal Principles, to raiſe Combuſtions, to diſ<g ref="char:EOLhyphen"/>compoſe the Harmony of that Government to which (though on various pretenſions) they are all equally dangerous and implacable Enemies.</p>
+            <pb n="2" facs="tcp:64756:2"/>
+            <p>I am not ignorant that there may be ſome few diſſaffected Spirits abroad amongſt You, that may endeavour to ſtifle and impair the Credit of all Relations from hence that do not ſuit with the Seditions Intereſts; Though I am ſatisfi'd that the Principles of there tumultuous Rebels here, are ſo different from the ſentiments of thoſe commonly call'd <hi>Preſ<g ref="char:EOLhyphen"/>byterian</hi> amongſt You in <hi>England</hi> that they can have no more concernment in, for kindneſs for theſe Traiterous Aſ<g ref="char:EOLhyphen"/>ſaſſinates, than all the <hi>Nonconformiſts</hi> had for thoſe Mad<g ref="char:EOLhyphen"/>brain'd <hi>Fifth-Monarchy-men</hi> that once attempted to diſturb Your Peace. It muſt be acknowledged, that many <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hope the greateſt part of <hi>Diſſenter<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> are perſons of peaceable tem<g ref="char:EOLhyphen"/>pers; The Experience they have had of the late Confuſi<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Extravagancies of Anarchy, and the Gracious In<g ref="char:EOLhyphen"/>dulgence of the beſt of Princes having calm'd the roughneſs of their Spirits; and reduc'd them to a due ſenſe of Mo<g ref="char:EOLhyphen"/>deration and Obedience, ſince the ſame (as they muſt needs perceive,) is not leſs their Intereſt than their Duty.</p>
+            <p>But to omit theſe Conſiderations which do not ſo imme<g ref="char:EOLhyphen"/>diately concern You and I, further then as We are good Subjects, and hearty Well-wiſhers to the true Proteſtant In<g ref="char:EOLhyphen"/>tereſt which at ſuch a juncture of Time ſeems not a little endangered by this Inſurrection, though 'tis not doubted, but by Gods Bleſſing on our Arms, it may ſpeedily be ſup<g ref="char:EOLhyphen"/>preſſed.</p>
+            <p>I am at preſent to acquaint you, That on <hi>Thurſday</hi> the 10th, inſtant, His Grace the Duke of <hi>Monmouth</hi> arriv'd in the Camp at <hi>Black-wood,</hi> where it was then drawn up, and ſpent that Day in giving the neceſſary Orders preparatory to their March; which they undertook the next morning, and In<g ref="char:EOLhyphen"/>camped near the <hi>Kirk-ſhots</hi> within Six Miles of <hi>Hamilton.</hi>
+            </p>
+            <p>Upon the News of our Advance the Rebels diſorderly re<g ref="char:EOLhyphen"/>tired from <hi>Haggs</hi> (where formerly they were poſted) to the
+<pb n="3" facs="tcp:64756:2"/> ſaid Town of <hi>Hamilton</hi> and places adjacent, where they are at preſent; And we doubt not but the Kings Hoſt will be up with them ſome time to morrow, ſoon after which you may certainly in ſome few days hear of ſome conſiderable Action, if they dare ſtand an Engagement.</p>
+            <p>In the mean time the Lords of His Majeſties Privy Coun<g ref="char:EOLhyphen"/>cil here are indefatigable in giving all neceſſary Orders for ſending Proviſions and Ammunition to the Army, and all other things neceſſary.</p>
+            <p>The Kings Army dayly Encreaſes by the coming in of Freſh Troops from ſeveral Shires with incredible cheerful<g ref="char:EOLhyphen"/>neſs, longing for nothing more than an opportunity, and command to Attacque the Rebels.</p>
+            <p>We have juſt now Information that the Cheif perſons of Note that have lately joyned the Rebels, are theſe following, <hi>Robert Stewart</hi> Brother to the Earl of <hi>Galloway, Mac Dougal</hi> of <hi>French,</hi> Mr. <hi>William Ferguſon</hi> of <hi>Kettnoch<g ref="char:punc">▪</g>
+               </hi> but all Living in <hi>Galloway.</hi>
+            </p>
+            <p>There is likewiſe gone to them one <hi>Home</hi> of <hi>Greden</hi> a <hi>Te<g ref="char:EOLhyphen"/>vidale</hi> man; <hi>Robert Hamilton</hi> Commands them ſtill as Ge<g ref="char:EOLhyphen"/>neral.</p>
+            <p>But the groſs of their Body conſiſts of people of ſuch Profligate Behaviour and lewd and unſetled Principles, that all perſons of Conſiderable Quality or Sober Converſation, are ſo far from Encouraging them, that they expreſs the greateſt Abhorhence and Deteſtation in the World of their Proceedings,</p>
+            <closer>
+               <dateline>From the Camp near <hi>Ha<g ref="char:EOLhyphen"/>milton,</hi> 
+                  <date>
+                     <hi>June</hi> the 20th. at 12 at Night 1679.</date>
+               </dateline>
+               <salute>SIR,</salute>
+               <signed>I am Ever Your Servant T. W.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
